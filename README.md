@@ -27,3 +27,8 @@ Run commands
 
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
 # AmazonClone
+
+
+
+## Stripe webhook login: 
+stripe listen --forward-to localhost:3000/api/webhook
