@@ -28,7 +28,8 @@ Run commands
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
 # AmazonClone
 
-
+#url
+https://ecommerce-amazon-clone-jzcl328aj-soumennn.vercel.app/ 
 
 ## Stripe webhook login: 
 stripe listen --forward-to localhost:3000/api/webhook
